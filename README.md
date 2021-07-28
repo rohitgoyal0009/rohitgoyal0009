@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and ML
 - 🌱 I’m currently learning Deep Learning Concepts
 - 💞️ I’m looking to collaborate on New Learnings
-- 📫 How to reach me reach me over my email
+- 📫 How to reach me reach me over my email "rohit.goyal0009@gmail.com"
 
 <!---
 rohitgoyal0009/rohitgoyal0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
